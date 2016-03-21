@@ -14,6 +14,6 @@ autor: MARCO COMASSETTO
 
 ## Contando os restaurantes
 
-> db.restaurantes.find({}).count()
+db.restaurantes.find({}).count()
 25359
 
